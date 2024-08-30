@@ -81,5 +81,5 @@ Alternatively, Tableau dashboard is available at:
 - Total Tickets: `5000`
 - Average Wait Time: `7.25` minute
 - 95th Percentile Wait Time: `23.35` minute
-- Tickets Exceeding Threshold: `250
+- Tickets Exceeding Threshold: `250`
 - Average wait time for high-value customers: `7.20` minutes
