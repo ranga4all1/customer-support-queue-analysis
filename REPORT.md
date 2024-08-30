@@ -78,7 +78,7 @@ Alternatively, Tableau dashboard is available at:
    - The average wait time for high-value customers is `7.20` minutes. The distribution of wait times by company size is visualized in the box plot and scatter plot provided above.
 
 
-- Total Tickets: `5000
+- Total Tickets: `5000`
 - Average Wait Time: `7.25` minute
 - 95th Percentile Wait Time: `23.35` minute
 - Tickets Exceeding Threshold: `250
