@@ -40,7 +40,8 @@ To achieve the project goals, the following technologies were employed:
 ├── README.md
 ├── REPORT.md
 ├── code
-│   └── data-extract.sql
+│   ├── data-extract.sql
+│   └── data-profiling.sql
 ├── data
 │   ├── clean-dataset-sq.csv
 │   └── query_results-2024-08-28_43438.csv
