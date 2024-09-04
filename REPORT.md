@@ -59,7 +59,7 @@ Navigation between these pages is available via the top navigation bar on the da
 
 Alternatively, Tableau dashboard is available at:
 
-![Tableau Public]()
+![Tableau Public](https://public.tableau.com/app/profile/r.h1008/viz/Support-Queue/WaitTimeAnalysisbyCompanySize)
 
 ## 7. Appendix B: Business questions
 
