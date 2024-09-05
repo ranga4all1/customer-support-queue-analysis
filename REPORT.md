@@ -47,7 +47,7 @@ This analysis identifies critical areas for improving customer support operation
 
 ## 6. Appendix A: Dashboard
 
-After executing the Python scripts/notebooks, the dashboard is accessible at [http://127.0.0.1:8050](http://127.0.0.1:8050).
+After executing the Python scripts/notebooks, the dashboard would become available at [http://127.0.0.1:8050](http://127.0.0.1:8050).
 
 ### Dashboard Pages:
 
@@ -57,9 +57,9 @@ After executing the Python scripts/notebooks, the dashboard is accessible at [ht
 
 Navigation between these pages is available via the top navigation bar on the dashboard.
 
-Alternatively, Tableau dashboard is available at:
+Alternatively, `Tableau dashboard` is available at:
 
-[Tableau Public](https://public.tableau.com/app/profile/r.h1008/viz/Support-Queue/WaitTimeAnalysisbyCompanySize)
+[Tableau Public](https://public.tableau.com/app/profile/r.h1008/viz/Support-Queue/SupportQueueAnalysis)
 
 ## 7. Appendix B: Business questions
 
