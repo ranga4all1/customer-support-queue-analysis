@@ -72,3 +72,9 @@ The final deliverable includes a detailed data analysis report with actionable r
     - **Develop a Data Engineering Pipeline**: Establish a comprehensive ETL/ELT pipeline with a workflow orchestrator for automated data extraction, transformation, and loading, along with advanced data modeling.
     - **Predictive Modeling**: Design and train predictive models to anticipate support queue dynamics, enabling proactive management and optimization.
     - **Automation**: Automate the entire analysis and reporting process to ensure consistent, real-time insights with minimal manual intervention.
+
+
+### **Update**:
+A solution for below recommendation in [`REPORT.md`](REPORT.md) has been created now and is availabe at [`https://github.com/ranga4all1/support-queue-assistant-rag`](https://github.com/ranga4all1/support-queue-assistant-rag)
+
+- **Develop Self-Service Options for Common Issues**: Introduce a knowledge base or chatbot to handle frequently asked questions and routine issues.
